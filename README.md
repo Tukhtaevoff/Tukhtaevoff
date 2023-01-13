@@ -10,7 +10,7 @@ I've been coding for more than 5 months as Frontend developer and I am currently
 * 🖥️  See my portfolio at [GitHub](http://github.com/Tukhtaevoff/my_shop)
 * ✉️  You can contact me at [abdulaziztoxtayev8@gmail.com](mailto:abdulaziztoxtayev8@gmail.com)
 * 🚀  I'm currently working on [Pro News](http://github.com/Tukhtaevoff/Pro-News)
-* 🧠  I'm learning Redux, TypeScript, Tailwind css
+* 🧠  I'm learning Redux and TypeScript
 * 🤝  I'm open to collaborating on interesting projects and profitable ones
 
 <a href="https://www.twitter.com/Tukhtaevoff" target="_blank" rel="noreferrer"><img
