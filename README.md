@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend | Software | Engineer
 ------------------------------
 
-I've been coding for more than 5 months as Frontend developer and I am currently learning new technologies which are high-demanding these days. Actually I'm having a practice working on a real project. My purpose is to get a better job, working in IT company with a great team and in the future I am gonna get senior Frontend developer
+I've been coding for more than 5 months as Frontend developer and I am currently learning new technologies which are high-demanding these days. Actually I'm having a practice working on a real project. My purpose is to get a better job, working in IT company with a great team and in the future I am gonna be senior Frontend developer
 
 * 🌍  I'm based in Tashkent, the capital of Uzbekistan
 * 🖥️  See my portfolio at [GitHub](http://github.com/Tukhtaevoff/my_shop)
